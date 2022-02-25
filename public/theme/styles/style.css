@@ -1,0 +1,7 @@
+:root {
+    --header-color: rgb(219, 6, 6);
+    --footer-color: rgb(0, 0, 0);
+}
+.btn-overrite {
+    background-color: var(--header-color);
+}
